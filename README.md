@@ -123,6 +123,10 @@
 
 ### [**jtalamini**](https://github.com/jtalamini) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-jtalamini](https://github.com/vvv18-git/assignment_git-jtalamini) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
