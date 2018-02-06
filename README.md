@@ -112,6 +112,10 @@
 
 ### [**ericpairet**](https://github.com/ericpairet) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-ericpairet](https://github.com/vvv18-git/assignment_git-ericpairet) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
