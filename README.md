@@ -247,6 +247,10 @@
 
 ### [**nikmayr2**](https://github.com/nikmayr2) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-nikmayr2](https://github.com/vvv18-git/assignment_git-nikmayr2) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
