@@ -59,9 +59,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_git-mkthabet](https://github.com/vvv18-git/assignment_git-mkthabet) | :x: | **0** |
+| [assignment_git-mkthabet](https://github.com/vvv18-git/assignment_git-mkthabet) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
