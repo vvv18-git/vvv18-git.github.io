@@ -26,9 +26,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_git-prashanthr05](https://github.com/vvv18-git/assignment_git-prashanthr05) | :white_check_mark: | **1** |
+| [assignment_git-prashanthr05](https://github.com/vvv18-git/assignment_git-prashanthr05) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
