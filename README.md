@@ -134,6 +134,10 @@
 
 ### [**Rayne91**](https://github.com/Rayne91) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-Rayne91](https://github.com/vvv18-git/assignment_git-Rayne91) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
