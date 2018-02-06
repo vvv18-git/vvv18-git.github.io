@@ -171,7 +171,14 @@
   {
     "username": "jasonsiver",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_git-jasonsiver",
+        "status": ":x:",
+        "last_commit_date": "2018-01-13 16:26:00 UTC",
+        "score": 1
+      }
+    ],
     "score": 0
   },
   {
