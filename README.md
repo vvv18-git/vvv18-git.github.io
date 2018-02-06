@@ -101,6 +101,10 @@
 
 ### [**anqingd**](https://github.com/anqingd) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-anqingd](https://github.com/vvv18-git/assignment_git-anqingd) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
