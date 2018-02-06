@@ -57,12 +57,12 @@
     "assignments": [
       {
         "name": "assignment_git-osm3000",
-        "status": ":x:",
-        "last_commit_date": "2018-01-13 16:26:00 UTC",
-        "score": 1
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-06 11:15:12 UTC",
+        "score": 3
       }
     ],
-    "score": 0
+    "score": 3
   },
   {
     "username": "mkthabet",
