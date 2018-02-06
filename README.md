@@ -156,6 +156,10 @@
 
 ### [**JuanMiguelAlvarez**](https://github.com/JuanMiguelAlvarez) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-JuanMiguelAlvarez](https://github.com/vvv18-git/assignment_git-JuanMiguelAlvarez) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
