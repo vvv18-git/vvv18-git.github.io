@@ -269,6 +269,10 @@
 
 ### [**yidiem**](https://github.com/yidiem) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-yidiem](https://github.com/vvv18-git/assignment_git-yidiem) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
