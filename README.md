@@ -225,6 +225,10 @@
 
 ### [**UgoVollhardt**](https://github.com/UgoVollhardt) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-UgoVollhardt](https://github.com/vvv18-git/assignment_git-UgoVollhardt) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
