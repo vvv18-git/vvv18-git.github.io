@@ -46,6 +46,10 @@
 
 ### [**osm3000**](https://github.com/osm3000) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-osm3000](https://github.com/vvv18-git/assignment_git-osm3000) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
