@@ -2,6 +2,10 @@
 
 ### [**atabakd**](https://github.com/atabakd) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-atabakd](https://github.com/vvv18-git/assignment_git-atabakd) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
