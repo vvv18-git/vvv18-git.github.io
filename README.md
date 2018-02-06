@@ -207,7 +207,11 @@
 
 ### [**marco-monforte**](https://github.com/marco-monforte) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-marco-monforte](https://github.com/vvv18-git/assignment_git-marco-monforte) | :white_check_mark: | **3** |
+
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
