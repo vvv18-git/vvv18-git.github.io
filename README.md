@@ -271,9 +271,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_git-yidiem](https://github.com/vvv18-git/assignment_git-yidiem) | :x: | **0** |
+| [assignment_git-yidiem](https://github.com/vvv18-git/assignment_git-yidiem) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
