@@ -197,8 +197,15 @@
   {
     "username": "umgnunes",
     "tutorials": [],
-    "assignments": [],
-    "score": 0
+    "assignments": [
+      {
+        "name": "assignment_git-umgnunes",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-06 11:16:51 UTC",
+        "score": 3
+      }
+    ],
+    "score": 3
   },
   {
     "username": "samvinanzi",
