@@ -68,6 +68,10 @@
 
 ### [**Meylina**](https://github.com/Meylina) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_git-Meylina](https://github.com/vvv18-git/assignment_git-Meylina) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
