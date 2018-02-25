@@ -1,5 +1,7 @@
 ## Gradebook of VVV18 Git
 
+As VVV18 is now over, the students repositories have been archived.
+
 ### [**atabakd**](https://github.com/atabakd) grade
 
 | assignment | status | score |
